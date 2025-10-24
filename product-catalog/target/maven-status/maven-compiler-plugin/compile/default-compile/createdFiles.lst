@@ -1,0 +1,5 @@
+com/catalog/service/ProductSortingService.class
+com/catalog/repository/ProductRepository.class
+com/catalog/controller/ProductController.class
+com/catalog/ProductCatalogApplication.class
+com/catalog/model/Product.class

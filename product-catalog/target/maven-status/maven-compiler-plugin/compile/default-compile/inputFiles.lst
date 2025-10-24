@@ -1,0 +1,5 @@
+/workspaces/codealgorithm/product-catalog/src/main/java/com/catalog/ProductCatalogApplication.java
+/workspaces/codealgorithm/product-catalog/src/main/java/com/catalog/repository/ProductRepository.java
+/workspaces/codealgorithm/product-catalog/src/main/java/com/catalog/service/ProductSortingService.java
+/workspaces/codealgorithm/product-catalog/src/main/java/com/catalog/controller/ProductController.java
+/workspaces/codealgorithm/product-catalog/src/main/java/com/catalog/model/Product.java
